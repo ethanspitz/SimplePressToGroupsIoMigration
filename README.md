@@ -12,6 +12,7 @@ The second one is to send each topic as an individual email directly to groups.i
 
 # Variables
 Set the following variables in the SimplePressToGroupsIoMigration.py
+
 | Variable Name    | Description |
 | `debug`          | Shows CLI output while it runs. |
 | `generateMbox`   | This boolean says whether or not to generate mbox files for each forum listed in the migration list. |
