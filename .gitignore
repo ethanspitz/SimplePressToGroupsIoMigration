@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# Allow following files
+!README.md
+!requirements.txt
+!.gitignore
+!SimplePressToGroupsIoMigration.py
